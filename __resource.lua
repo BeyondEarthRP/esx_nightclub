@@ -4,8 +4,6 @@ description 'ESX Nightclub Job & Addons'
 
 version '1.6.0'
 
-dependency 'fivem_ipl'
-
 client_scripts {
   --JOB-- 
   '@es_extended/locale.lua',
