@@ -1,3 +1,5 @@
+USE `essentialmode`;
+
 SET @job_name = 'nightclub';
 SET @society_name = 'society_nightclub';
 SET @job_Name_Caps = 'Nightclub';

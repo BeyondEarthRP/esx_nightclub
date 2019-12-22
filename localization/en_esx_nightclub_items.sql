@@ -7,6 +7,8 @@
 -- Server-Version: 5.7.26-0ubuntu0.18.04.1
 -- PHP-Version: 7.2.17-0ubuntu0.18.04.1
 
+USE `essentialmode`;
+
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
